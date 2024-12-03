@@ -1,4 +1,4 @@
-// Classe genérica representando um heroi
+// Classe genérica representando um herói
 class Heroi {
     constructor(nome, idade, tipo) {
         this.nome = nome; // Nome do herói
